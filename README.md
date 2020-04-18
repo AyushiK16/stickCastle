@@ -1,2 +1,2 @@
-# stickCastle
-This is a stick castle. It has sticks of different lengths and width with triangles too.
+# p5.play-boilerplate
+Boiler plate for p5.play
